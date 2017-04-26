@@ -1,0 +1,14 @@
+{
+  "name": "jsonflatten2csv",
+  "version": "1.0.0",
+  "description": "Flatten a JSON to CSV which support nested JSON with Object in Array or vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
